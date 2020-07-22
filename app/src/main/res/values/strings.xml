@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Recognition</string>
+    <string name="bitmap_to_be_analyzed">Bitmap to be analyzed</string>
+    <string name="add">Add</string>
+</resources>
